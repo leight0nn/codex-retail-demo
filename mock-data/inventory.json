@@ -1,0 +1,57 @@
+[
+  {
+    "sku": "SKU-100",
+    "locationId": "STORE-001",
+    "locationType": "STORE",
+    "onHandQty": 8,
+    "reservedQty": 2,
+    "safetyStockQty": 1,
+    "lastUpdatedAt": "2026-01-01T10:00:00.000Z",
+    "pickupRank": 1,
+    "shipRank": 4
+  },
+  {
+    "sku": "SKU-100",
+    "locationId": "STORE-015",
+    "locationType": "STORE",
+    "onHandQty": 2,
+    "reservedQty": 1,
+    "safetyStockQty": 1,
+    "lastUpdatedAt": "2026-01-01T09:45:00.000Z",
+    "pickupRank": 2,
+    "shipRank": 5
+  },
+  {
+    "sku": "SKU-100",
+    "locationId": "DC-ATL",
+    "locationType": "DC",
+    "onHandQty": 120,
+    "reservedQty": 15,
+    "safetyStockQty": 10,
+    "lastUpdatedAt": "2026-01-01T10:03:00.000Z",
+    "pickupRank": 99,
+    "shipRank": 1
+  },
+  {
+    "sku": "SKU-200",
+    "locationId": "STORE-001",
+    "locationType": "STORE",
+    "onHandQty": 4,
+    "reservedQty": 4,
+    "safetyStockQty": 0,
+    "lastUpdatedAt": "2026-01-01T10:01:00.000Z",
+    "pickupRank": 1,
+    "shipRank": 6
+  },
+  {
+    "sku": "SKU-200",
+    "locationId": "DC-DFW",
+    "locationType": "DC",
+    "onHandQty": 40,
+    "reservedQty": 20,
+    "safetyStockQty": 5,
+    "lastUpdatedAt": "2026-01-01T09:15:00.000Z",
+    "pickupRank": 99,
+    "shipRank": 2
+  }
+]
