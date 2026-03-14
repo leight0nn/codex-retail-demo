@@ -7,6 +7,9 @@
     "reservedQty": 2,
     "safetyStockQty": 1,
     "lastUpdatedAt": "2026-01-01T10:00:00.000Z",
+    "sourceSystem": "STORE_POS",
+    "feedLagMinutes": 2,
+    "isCycleCountPending": false,
     "pickupRank": 1,
     "shipRank": 4
   },
@@ -18,6 +21,9 @@
     "reservedQty": 1,
     "safetyStockQty": 1,
     "lastUpdatedAt": "2026-01-01T09:45:00.000Z",
+    "sourceSystem": "STORE_POS",
+    "feedLagMinutes": 5,
+    "isCycleCountPending": false,
     "pickupRank": 2,
     "shipRank": 5
   },
@@ -29,6 +35,9 @@
     "reservedQty": 15,
     "safetyStockQty": 10,
     "lastUpdatedAt": "2026-01-01T10:03:00.000Z",
+    "sourceSystem": "WMS",
+    "feedLagMinutes": 8,
+    "isCycleCountPending": false,
     "pickupRank": 99,
     "shipRank": 1
   },
@@ -40,6 +49,9 @@
     "reservedQty": 4,
     "safetyStockQty": 0,
     "lastUpdatedAt": "2026-01-01T10:01:00.000Z",
+    "sourceSystem": "STORE_POS",
+    "feedLagMinutes": 1,
+    "isCycleCountPending": false,
     "pickupRank": 1,
     "shipRank": 6
   },
@@ -51,6 +63,9 @@
     "reservedQty": 20,
     "safetyStockQty": 5,
     "lastUpdatedAt": "2026-01-01T09:15:00.000Z",
+    "sourceSystem": "ERP_BATCH",
+    "feedLagMinutes": 45,
+    "isCycleCountPending": false,
     "pickupRank": 99,
     "shipRank": 2
   }
